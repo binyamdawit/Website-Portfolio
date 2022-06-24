@@ -4,6 +4,7 @@ import imageBlog from '../../images/fragranceblog.png'
 import journalImage from '../../images/ejsjournal.png'
 import todoList from '../../images/todo.png'
 import streamImage from '../../images/streamio.png'
+import urlShort from '../../images/urlshortenerapp.png'
 
 export const portfolioData = [
     {
@@ -36,6 +37,12 @@ export const portfolioData = [
         projectLink: 'https://github.com/binyamdawit/Todo-List',
         image: todoList
     },
+    {
+        sectionId: 3,
+        projectName: 'URL Shortener',
+        projectLink: 'https://github.com/binyamdawit/URL-Shortener',
+        image: urlShort
+    }
 ]
 
 export const filterOptions = [
