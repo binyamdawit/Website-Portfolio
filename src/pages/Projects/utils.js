@@ -4,7 +4,7 @@ import imageBlog from '../../images/fragranceblog.png'
 import journalImage from '../../images/ejsjournal.png'
 import todoList from '../../images/todo.png'
 import streamImage from '../../images/streamio.png'
-import urlShort from '../../images/urlshortenerapp.png'
+import urlShort from '../../images/urlshortnerapp.png'
 
 export const portfolioData = [
     {
