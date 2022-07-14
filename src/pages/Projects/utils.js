@@ -5,6 +5,7 @@ import journalImage from "../../images/ejsjournal.png";
 import todoList from "../../images/todo.png";
 import streamImage from "../../images/streamio.png";
 import urlShort from "../../images/urlshortnerapp.png";
+import dashboardImg from "../../images/dashboardpic.png";
 
 export const portfolioData = [
   {
@@ -42,6 +43,12 @@ export const portfolioData = [
     projectName: "URL Shortener",
     projectLink: "https://github.com/binyamdawit/URL-Shortener",
     image: urlShort,
+  },
+  {
+    sectionId: 4,
+    projectName: "Admin Dashboard",
+    projectLink: "https://github.com/binyamdawit/Dashboard-App.git",
+    image: dashboardImg,
   },
 ];
 
